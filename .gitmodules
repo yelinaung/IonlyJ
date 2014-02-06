@@ -1,0 +1,3 @@
+[submodule "libs/utils"]
+	path = libs/utils
+	url = https://github.com/yelinaung/android-utils
